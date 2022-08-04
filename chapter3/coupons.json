@@ -1,0 +1,30 @@
+[
+    {
+        "code" : "MAYDISCOUNT",
+        "rank": "good"
+    },
+
+    {
+        "code" : "10PERCENT",
+        "rank": "bad"
+    },
+
+    {
+        "code" : "PROMOTION45",
+        "rank": "best"
+    },
+
+    {
+        "code" : "IHATEYOU",
+        "rank": "bad"
+    },
+
+    {
+        "code" : "GETADEAL",
+        "rank": "best"
+    },
+    {
+        "code" : "ILIKEDISCOUNTS",
+        "rank": "good"
+    }
+]

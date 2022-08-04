@@ -1,0 +1,38 @@
+[
+  {
+    "from": "newsletter@coupondog.co",
+    "to": "john@coldmail.com",
+    "subject": "Your best weekly coupons inside",
+    "body": "Here are the best coupons : MAYDISCOUNT, ILIKEDISCOUNTS"
+  },
+  {
+    "from": "newsletter@coupondog.co",
+    "to": "sam@pmail.co",
+    "subject": "Your best weekly coupons inside",
+    "body": "Here are the best coupons : PROMOTION45, GETADEAL"
+  },
+  {
+    "from": "newsletter@coupondog.co",
+    "to": "linda1989@oal.com",
+    "subject": "Your best weekly coupons inside",
+    "body": "Here are the best coupons : MAYDISCOUNT, ILIKEDISCOUNTS"
+  },
+  {
+    "from": "newsletter@coupondog.co",
+    "to": "jan1940@anoy.com",
+    "subject": "Your best weekly coupons inside",
+    "body": "Here are the best coupons : MAYDISCOUNT, ILIKEDISCOUNTS"
+  },
+  {
+    "from": "newsletter@coupondog.co",
+    "to": "mrbig@pmail.co",
+    "subject": "Your best weekly coupons inside",
+    "body": "Here are the best coupons : PROMOTION45, GETADEAL"
+  },
+  {
+    "from": "newsletter@coupondog.co",
+    "to": "lol@lol.lol",
+    "subject": "Your best weekly coupons inside",
+    "body": "Here are the best coupons : MAYDISCOUNT, ILIKEDISCOUNTS"
+  }
+]
